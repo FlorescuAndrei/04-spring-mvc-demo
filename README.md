@@ -36,7 +36,7 @@ File - New – Dynamic web project.
 
 Run project :    -> run on server
 
-Config:  xml config files: web.xml, spring-mvc-dem-servlet.xml.
+Config:  xml config files: web.xml, spring-mvc-demo-servlet.xml.
 LIB : spring jar file; hibernate-validator jar files;  javax.servlet-api-4.0.1.jar;  javax.servlet.jsp.jstl; javax.servlet.jsp.jstl-api-1.2.1.
 
 ![Project Explorer:](box/project-structure.png)
