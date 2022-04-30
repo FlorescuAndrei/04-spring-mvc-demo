@@ -46,9 +46,9 @@
 					</form:select>
 		<br><br>
 		
-		Favorite Language: 	Java<form:radiobutton path="favoriteLanguage" value="Java" />
-							C#	<form:radiobutton path="favoriteLanguage" value="C#" />
-							PHP	<form:radiobutton path="favoriteLanguage" value="PHP" />
+		Favorite Language: 	Java	<form:radiobutton path="favoriteLanguage" value="Java" />
+					C#	<form:radiobutton path="favoriteLanguage" value="C#" />
+					PHP	<form:radiobutton path="favoriteLanguage" value="PHP" />
 		
 		<br><br>
 		
