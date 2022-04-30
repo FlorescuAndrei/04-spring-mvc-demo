@@ -1,6 +1,6 @@
 # 04-spring-mvc-demo
 First Spring MVC  project.  
-Form.  Hibernate Validator  
+Form Tags.  Hibernate Validator  
 
 
 Main menu with  three direction:
