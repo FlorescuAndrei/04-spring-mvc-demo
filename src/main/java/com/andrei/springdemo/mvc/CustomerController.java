@@ -29,7 +29,7 @@ public class CustomerController {
 		
 		System.out.println("Last name: |" + customer.getLastName() +"|");
 		
-		System.out.println("Binding result: " + bindingResult);		//show the error code type  for we to know what to override, and we add in the messages.proerties
+		System.out.println("Binding result: " + bindingResult);		//show the error code type  for we to know what to override, and we add in the messages.properties
 		
 		
 		if(bindingResult.hasErrors()) {
